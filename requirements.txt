@@ -1,0 +1,13 @@
+xarray
+dask[complete]
+zarr
+geopandas
+scikit-learn
+pystac-client
+rioxarray
+numpy
+pandas
+matplotlib
+jupyter
+planetary_computer
+odc.stac
